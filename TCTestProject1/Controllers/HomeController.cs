@@ -6,7 +6,7 @@ namespace TCTestProject1.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "TCTestProjct Main Page";
+            ViewBag.Title = "TCTestProjct Main Page ";
 
             return View();
         }
